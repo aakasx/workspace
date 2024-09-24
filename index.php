@@ -3,7 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! I love my Bharat  and pakistan is madarchhod country
+welcome! I love my Bharat and pakistan is madarchhod country
 </h1>
 
 <?php
