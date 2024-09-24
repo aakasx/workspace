@@ -7,7 +7,7 @@ welcome! I love my Bharat  and pakistan is madarchhod country
 </h1>
 
 <?php
-echo "Hello World! Ashi!!!!! i am ad";
+echo "Hello Mister!!!!! i am ad";
 ?>
 
 </body>
